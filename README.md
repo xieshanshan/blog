@@ -6,3 +6,4 @@
 4. [Jquery-Knob 兼容ie8的圆形进度条插件](https://github.com/xieshanshan/blog/issues/6)
 5. [ie8兼容rgba()](https://github.com/xieshanshan/blog/issues/7)  
 6. [奇怪!!! IE浏览器下加载js文件无效](https://github.com/xieshanshan/blog/issues/8) 
+7. [keymirror的使用](https://github.com/xieshanshan/blog/issues/9)
