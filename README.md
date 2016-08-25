@@ -7,4 +7,5 @@
 5. [ie8兼容rgba()](https://github.com/xieshanshan/blog/issues/7)  
 6. [奇怪!!! IE浏览器下加载js文件无效](https://github.com/xieshanshan/blog/issues/8) 
 7. [keymirror的使用](https://github.com/xieshanshan/blog/issues/9)  
-8. [兼容ie8的轮播插件bxslider](https://github.com/xieshanshan/blog/issues/10)  
+8. [兼容ie8的轮播插件bxslider](https://github.com/xieshanshan/blog/issues/10)
+9. [node-sass安装失败解决方案](https://github.com/xieshanshan/blog/issues/11)
