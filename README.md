@@ -9,3 +9,4 @@
 7. [keymirror的使用](https://github.com/xieshanshan/blog/issues/9)  
 8. [兼容ie8的轮播插件bxslider](https://github.com/xieshanshan/blog/issues/10)
 9. [node-sass安装失败解决方案](https://github.com/xieshanshan/blog/issues/11)
+10. [无法删除Cookie的烦恼](https://github.com/xieshanshan/blog/issues/12)
